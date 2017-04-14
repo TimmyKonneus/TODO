@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="tasks">Tasks</string>
+    <string name="statistics">Activity Statistics</string>
+    <string name="information">App Information</string>
+    <string name="current">Current</string>
+    <string name="total">Total</string>
+    <string name="average_per_day">Average per day</string>
+    <string name="Create">Created</string>
+    <string name="wordaverage">Average words</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="alltasks">All tasks</string>
+    <string name="Active_task">Active</string>
+    <string name="completed_task">Completed</string>
+    <string name="archived_task">Deleted</string>
+    <string name="titlehint">Task Title</string>
+    <string name="descriptionhint">Task description...</string>
+    <string name="Completed">Task Completed</string>
+    <string name="delete_button">Delete</string>
+    <string name="save">Save</string>
+    <string name="AppName">ToDoApp</string>
+    <string name="Title">The ToDoApp</string>
+    <string name="firstmenu">Menu</string>
+    <string name="drawer">Open drawer</string>
+    <string name="drawerclose">Close drawer</string>
+    <string name="settings">Settings</string>
+    <string name="deleted">Deleted</string>
+
+</resources>

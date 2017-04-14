@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Min ToDoApp</string>
+    <string name="Title">Min ToDoApp</string>
+
+    <string name="firstmenu">En "attgöra" app</string>
+
+    <string name="drawer">Öppna menyn</string>
+    <string name="drawerclose">Stäng menyn</string>
+
+    <string name="settings">Inställningar</string>
+
+    <string name="tasks">Uppgifter</string>
+    <string name="statistics">Statistik</string>
+    <string name="information">App Information</string>
+
+    <string name="current">Befintliga</string>
+    <string name="total">Totalt</string>
+    <string name="average_per_day">Genomsnitt / dag</string>
+    <string name="Create">Skapade</string>
+    <string name="wordaverage">Genomsnitt antal ord</string>
+    <string name="title">Rubrik</string>
+    <string name="description">Beskrivning</string>
+
+    <string name="titlehint">Rubrik</string>
+    <string name="descriptionhint">Beskrivning av din uppgift</string>
+    <string name="Completed">Klar</string>
+    <string name="delete_button">Ta bort</string>
+    <string name="save">Spara</string>
+    <string name="delete">Ta bort</string>
+    <string name="restore">Återställ</string>
+
+    <string name="alltasks">Samtliga uppgifter</string>
+    <string name="Active_task">Aktiva</string>
+    <string name="completed_task">Avklarade uppgifter</string>
+
+</resources>
