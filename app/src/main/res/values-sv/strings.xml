@@ -13,7 +13,7 @@
     <string name="tasks">Uppgifter</string>
     <string name="statistics">Statistik</string>
     <string name="information">App Information</string>
-
+    <string name="archived_task">Borttagen</string>
     <string name="current">Befintliga</string>
     <string name="total">Totalt</string>
     <string name="average_per_day">Genomsnitt / dag</string>
@@ -27,8 +27,8 @@
     <string name="Completed">Klar</string>
     <string name="delete_button">Ta bort</string>
     <string name="save">Spara</string>
-    <string name="delete">Ta bort</string>
-    <string name="restore">Återställ</string>
+    <string name="deleted">Deleted</string>
+
 
     <string name="alltasks">Samtliga uppgifter</string>
     <string name="Active_task">Aktiva</string>
